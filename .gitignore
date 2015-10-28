@@ -1,0 +1,23 @@
+# temp files for vim
+*~
+*.swp
+*.swo
+
+# cache files for sublime text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+
+# workspace files are user-specific
+*.sublime-workspace
+
+# for mac
+.DS_Store
+
+# for python
+*.pyc
+
+# for richard
+GruntFile.js
+package.json
+node_modules/*
